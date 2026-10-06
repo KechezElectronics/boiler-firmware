@@ -1,10 +1,10 @@
 {
-  "version": 2,
-  "size": 1254240,
-  "sha256": "89d11e5ae5befd54f366b7f88768ce7f270b2eece34375fe2f350dd6dac558ec",
-  "url": "https://kechezelectronics.github.io/boiler-firmware/firmware-2.bin",
+  "version": 3,
+  "size": 1254256,
+  "sha256": "3e3e6c01ce3f09ac768567a2343de1deca207a98539810f48612752fe5afab77",
+  "url": "https://kechezelectronics.github.io/boiler-firmware/firmware-3.bin",
   "devices": [
     "b028a7a76062ec"
   ],
-  "sig": "304402205b65ddcb753e47869f95d154b0d73ef96e4880b2943725a4e9b1f9b8f60f7d8102207b7df6013dd54ad91a8427e36f09bd48a32a30469dedd29771740a43032ec69f"
+  "sig": "3045022100ba5f3ad4a742f779165862ad93cc15b9169916e9e01dbadf8363686ec564e9510220125e63a750c1303ce5d849b22f1455cf7a6855dd0875e47bb72e16f30916e9d6"
 }
