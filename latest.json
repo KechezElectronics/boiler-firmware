@@ -1,10 +1,7 @@
 {
-  "version": 5,
-  "size": 1255424,
-  "sha256": "78133373c1d35655795d12266076dfea287b2585653085ee9836758b6e1781af",
-  "url": "https://raw.githubusercontent.com/KechezElectronics/boiler-firmware/main/firmware-5.bin",
-  "devices": [
-    "b028a7a76062ec"
-  ],
-  "sig": "304502200884822504036c6e93822f2cd595aeada0ecbb9aabb6a6ef7ed445613b3925a4022100ecb68e90d630f83fa023737b458bb0820cc7c9d53ae5cc58ca469f088fa668dd"
+  "version": 8,
+  "size": 1257808,
+  "sha256": "e9fa542fb2452e2823a13c9685a41beb4983573b9e9937b2b0c26c51bdb0ecd6",
+  "url": "https://raw.githubusercontent.com/KechezElectronics/boiler-firmware/main/firmware-8.bin",
+  "sig": "3045022052087d4a086949b9194752c3337b2f1882a4f1f315bbdfd5773bb2b9adc5bd70022100808337c51067730a3c9bde310108ee5f19ff2db2a8b7416bde10143250708045"
 }
